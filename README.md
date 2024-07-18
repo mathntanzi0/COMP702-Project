@@ -4,7 +4,7 @@ Welcome to the South Africa Bank Notebook Recognition System! This repository co
 
 ## Overview
 
-Banknote recognition involves capturing and classifying images of paper-based currency. This process is crucial for counterfeit detection, automated cash handling, and improved efficiency in banking operations. Our system aims to accurately classify both old and new South African banknotes in denominations of R10, R20, R50, R100, and R200.
+Banknote recognition involves capturing and classifying images of paper-based currency. This process is crucial for automated cash handling and improved efficiency in banking operations. Our system aims to accurately classify both old and new South African banknotes in denominations of R10, R20, R50, R100, and R200.
 
 ## Requirements
 
